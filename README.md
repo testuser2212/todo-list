@@ -9,4 +9,6 @@ It uses HTML5 and CSS3.
 Updating README
 Updating README for second time
 
+License:MIT
+
 
