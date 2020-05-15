@@ -2,13 +2,13 @@
 A simple app to manage your daily tasks
 It uses HTML5 and CSS3.
 
-##Features
-*List of daily tasks
-*Checking git Kracken feature
+## Features ##
+* List of daily tasks
+* Checking git Kracken feature
 
-#Updating
-Updating README
-Updating README for second time
+# Updating
+* Updating README
+* Updating README for second time
 
 License:MIT
 
